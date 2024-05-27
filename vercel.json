@@ -15,7 +15,7 @@
       }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "/index.html" }
+      { "src": "/(.*)", "dest": "/src/index.html" }
     ]
   }
   
